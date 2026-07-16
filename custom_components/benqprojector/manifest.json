@@ -13,7 +13,7 @@
   	"benqprojector"
   ],
   "requirements": [
-    "benqprojector==0.1.9"
+    "benqprojector @ git+https://github.com/myhades/benqprojector.py.git@connection-recovery"
   ],
   "version": "0.1.4"
 }
